@@ -13,3 +13,4 @@ Push Changes to GitHub: Once you're happy with your changes, you push them to th
 Collaborate with Others: GitHub excels at collaboration. Others can clone your repository, make changes, and submit those changes back to you through pull requests. A pull request is a request to merge changes from one branch (a separate line of development) into another, usually the main branch. You can review these changes, discuss them, and decide whether to include them in your project.
 
 Branching and Merging: GitHub also makes it easy to work on different features or fixes simultaneously through branching. You can create a branch, make changes without affecting the main project, and then merge these changes back into the main branch once they’re complete and tested
+It is very simple to use

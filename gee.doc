@@ -1,0 +1,15 @@
+GitHub works by allowing you to create repositories where you can store and manage your project files. Here’s a simple overview of how you might use GitHub:
+
+Create a Repository: When you start a new project, you can create a repository on GitHub. This is where all your project's files and the history of their changes will be stored. You can create repositories that are public (anyone can see and contribute) or private (only you and selected collaborators have access).
+
+Clone the Repository: Once your repository is set up on GitHub, you can clone it to your local machine. This means you create a copy of the repository on your computer, where you can work on the project files.
+
+Make Changes Locally: As you work on your project, you make changes to the files in your local repository. You can add new features, fix bugs, or make any other necessary updates.
+
+Commit Changes: After making changes, you commit them to your local repository. A commit is like a snapshot of your project at a specific point in time. It records what changes were made and why, along with the author's name and the date of the change.
+
+Push Changes to GitHub: Once you're happy with your changes, you push them to the remote repository on GitHub. This updates the repository on GitHub with your new changes, making them available to others if your repository is public or shared with collaborators.
+
+Collaborate with Others: GitHub excels at collaboration. Others can clone your repository, make changes, and submit those changes back to you through pull requests. A pull request is a request to merge changes from one branch (a separate line of development) into another, usually the main branch. You can review these changes, discuss them, and decide whether to include them in your project.
+
+Branching and Merging: GitHub also makes it easy to work on different features or fixes simultaneously through branching. You can create a branch, make changes without affecting the main project, and then merge these changes back into the main branch once they’re complete and tested
